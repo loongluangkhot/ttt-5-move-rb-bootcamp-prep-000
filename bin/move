@@ -3,4 +3,4 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here.
-board = get_variable_from_file("./bin/move", "board")
+# board = get_variable_from_file("./bin/move", "board")
